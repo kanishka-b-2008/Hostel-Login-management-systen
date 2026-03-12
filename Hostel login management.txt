@@ -1,0 +1,18 @@
+# Hostel Login Management System
+
+This project is created as part of an academic activity.
+
+## Project Description
+The Hostel Login Management System helps to manage the entry and exit details of hostel students. It allows wardens to monitor student login records easily.
+
+## Features
+- Student login record management
+- Easy monitoring for wardens
+- Organized student data
+
+## Technology Used
+- Basic Programming Concepts
+- GitHub Repository Management
+
+## Purpose
+This project is created for learning GitHub and project management for academic purposes.
